@@ -7,6 +7,7 @@
 <title>Login Page</title>
 </head>
 <body>
-My First JSP
+<h3>My First JSP</h3>
+<p>Welcome ${name} !</p>
 </body>
 </html>
