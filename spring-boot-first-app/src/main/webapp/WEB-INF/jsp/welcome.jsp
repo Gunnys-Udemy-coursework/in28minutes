@@ -9,6 +9,5 @@
 <body>
 <h3>My First JSP</h3>
 <p>Welcome ${name} !</p> 
-
 </body>
 </html>

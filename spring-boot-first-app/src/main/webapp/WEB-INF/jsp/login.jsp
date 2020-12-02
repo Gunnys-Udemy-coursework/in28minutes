@@ -7,8 +7,7 @@
 <title>Login Page</title>
 </head>
 <body>
-<%-- <h3>My First JSP</h3>
-<p>Welcome ${name} !</p> --%>
+<font color="red">${errorMessage}</font>
 <form method="post">
 Name: <input type="text" name="name"/>
 Password: <input type="password" name="password"/>
